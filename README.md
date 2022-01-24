@@ -11,3 +11,6 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution
 
 Custom Visualize Predictions into Gifs Callbacks:
 <img src="https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/blob/main/MOOC%201%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions/week%205%20-%20Custom%20Callbacks/animation.gif" width="1000" height="300" />
+
+## MOOC 2: Custom and Distributed Training with TensorFlow
+* [Week 1: Differentiation and Gradients](https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/tree/main/MOOC%202%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/week%201%20-%20Differentiation%20and%20Gradients)
