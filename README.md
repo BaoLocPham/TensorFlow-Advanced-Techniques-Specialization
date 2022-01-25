@@ -14,3 +14,4 @@ Custom Visualize Predictions into Gifs Callbacks:
 
 ## MOOC 2: Custom and Distributed Training with TensorFlow
 * [Week 1: Differentiation and Gradients](https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/tree/main/MOOC%202%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/week%201%20-%20Differentiation%20and%20Gradients)
+* [Week 2: Custom and Distributed Training](https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/tree/main/MOOC%202%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/week%202%20-%20Custom%20and%20Distributed%20Training)
