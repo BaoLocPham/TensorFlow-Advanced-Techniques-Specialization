@@ -22,3 +22,8 @@ Custom Visualize Predictions into Gifs Callbacks:
 * [Week 1: Introduction to Computer Vision](https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/tree/main/MOOC%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/week%201%20-%20Introduction%20to%20Computer%20Vision)
 
 ![Introduction to Object Detection](https://user-images.githubusercontent.com/67360122/151739698-12aaf8b1-9dbe-4c76-996d-d19154eacc88.png)
+
+* [Week 2: Object Detection](https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/tree/main/MOOC%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/week%202%20-%20Object%20Detection)
+
+Fine tune object detection using only 5 training images:  [Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) and retrain [RetinaNet](https://arxiv.org/abs/1708.02002) 
+<img src="https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/blob/main/MOOC%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/week%202%20-%20Object%20Detection/duckies_test.gif" width="480" height="350" /> <img src="https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/blob/main/MOOC%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/week%202%20-%20Object%20Detection/zombie-anim.gif" width="480" height="350" />
