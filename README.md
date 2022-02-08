@@ -27,3 +27,8 @@ Custom Visualize Predictions into Gifs Callbacks:
 
 Fine tune object detection using only 5 training images:  [Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) and retrain [RetinaNet](https://arxiv.org/abs/1708.02002) 
 <img src="https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/blob/main/MOOC%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/week%202%20-%20Object%20Detection/duckies_test.gif" width="480" height="350" /> <img src="https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/blob/main/MOOC%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/week%202%20-%20Object%20Detection/zombie-anim.gif" width="480" height="350" />
+
+* [Week 3: Image Segmentation](https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/tree/main/MOOC%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/week%203%20-%20Image%20Segmentation)
+
+MNIST Segmentation: 
+<img src="https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/blob/main/MOOC%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/week%203%20-%20Image%20Segmentation/MNIST_Segmentation.PNG" width="1000" height="300" />
