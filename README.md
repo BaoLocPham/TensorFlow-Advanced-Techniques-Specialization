@@ -45,7 +45,7 @@ Class Activation Maps with CatsDogs:
 
 Saliency:
 
-<img src="https://user-images.githubusercontent.com/67360122/156879461-23b33ce8-90c9-42e0-85b0-71e557e37ae4.png" width="450" height="400" /> <img src="https://user-images.githubusercontent.com/67360122/156879402-34535ec6-c27f-4d49-ab26-704ff15f848b.png" width="450" height="400" />
+<img src="https://user-images.githubusercontent.com/67360122/156879461-23b33ce8-90c9-42e0-85b0-71e557e37ae4.png" width="400" height="400" /> <img src="https://user-images.githubusercontent.com/67360122/156879402-34535ec6-c27f-4d49-ab26-704ff15f848b.png" width="400" height="400" />
 
 Radient-weighted class activation maps (GradCAMs):
 
