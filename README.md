@@ -37,11 +37,11 @@ MNIST Segmentation:
 
 Class Activation Maps with Fashion MNIST:
 
-<img src="https://user-images.githubusercontent.com/67360122/156879111-bb1cfc39-732b-4601-b431-bbc5ef654ebf.png" width="450" height="400" /> <img src="https://user-images.githubusercontent.com/67360122/156879137-aa57660a-3cc1-40c6-9726-8ca68f06aa29.png" width="450" height="400" />
+<img src="https://user-images.githubusercontent.com/67360122/156879111-bb1cfc39-732b-4601-b431-bbc5ef654ebf.png" width="400" height="400" /> <img src="https://user-images.githubusercontent.com/67360122/156879137-aa57660a-3cc1-40c6-9726-8ca68f06aa29.png" width="400" height="400" />
 
 Class Activation Maps with CatsDogs:
 
-<img src="https://user-images.githubusercontent.com/67360122/156879192-2b94cd5b-2915-4c4a-9013-331c9fe012bd.png" width="450" height="400" /> <img src="https://user-images.githubusercontent.com/67360122/156879217-5437d3c7-3730-4f56-892f-856b0a5b66a4.png" width="450" height="400" />
+<img src="https://user-images.githubusercontent.com/67360122/156879192-2b94cd5b-2915-4c4a-9013-331c9fe012bd.png" width="400" height="400" /> <img src="https://user-images.githubusercontent.com/67360122/156879217-5437d3c7-3730-4f56-892f-856b0a5b66a4.png" width="400" height="400" />
 
 Saliency:
 
