@@ -50,3 +50,10 @@ Saliency:
 Radient-weighted class activation maps (GradCAMs):
 
 <img src="https://user-images.githubusercontent.com/67360122/156879502-1e585053-8a2f-47e4-85b8-6157ba5cbc5e.png" width="1000" height="750" /> 
+
+## MOOC 4: Generative Deep Learning with TensorFlow
+* [Week 1: Style Transfer](https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/tree/main/MOOC%204%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/week%201%20-%20%20Style%20Transfer)
+
+Assignment Style Transfer using InceptionV3 backbone
+![content and style image](https://user-images.githubusercontent.com/67360122/157914973-1833879c-1694-4a46-b596-3e15ef9d1a98.png)
+![generated image](https://user-images.githubusercontent.com/67360122/157915017-9a349e6b-3c94-411d-b796-19626c27a22d.png)
