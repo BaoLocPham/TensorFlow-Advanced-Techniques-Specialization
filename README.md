@@ -57,3 +57,9 @@ Radient-weighted class activation maps (GradCAMs):
 Assignment Style Transfer using InceptionV3 backbone
 ![content and style image](https://user-images.githubusercontent.com/67360122/157914973-1833879c-1694-4a46-b596-3e15ef9d1a98.png)
 ![generated image](https://user-images.githubusercontent.com/67360122/157915017-9a349e6b-3c94-411d-b796-19626c27a22d.png)
+
+* [Week 2: AutoEncoder](https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/tree/main/MOOC%204%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/week%202%20-%20Auto%20Encoder)
+
+Assignment CIFAR-10 AutoEncoder
+![visualization garelly](https://user-images.githubusercontent.com/67360122/158839846-4254ee93-4224-4c09-a1ce-dcc9c0ee4aad.png)
+
