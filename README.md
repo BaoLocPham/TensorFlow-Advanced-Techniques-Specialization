@@ -75,7 +75,7 @@ Anime Face Variational Autoencoder:
 
 ![image](https://user-images.githubusercontent.com/67360122/161431376-2bceac2a-de0d-4de4-90ca-e038402fedea.png)
 
-* [Week 3: GAN](https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/tree/main/MOOC%204%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/week%204%20-%20GAN)
+* [Week 4: GAN](https://github.com/BaoLocPham/TensorFlow-Advanced-Techniques-Cousera/tree/main/MOOC%204%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/week%204%20-%20GAN)
 
 MNIST GAN:
 
